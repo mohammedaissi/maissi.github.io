@@ -1,5 +1,14 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+# Mohammed Aissi
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m **Mohammed Aissi**, a passionate engineer working at the intersection of **robotics**, **autonomous systems**, and **embedded software**. With a background in **drone engineering** and current experience in the **automotive industry**, I focus on developing and testing smart, autonomous solutions — from **UAVs** and **UGVs** to **automotive ECUs**.
+
+I'm actively involved in research around **AI-powered navigation**, **simulation environments** (ROS, Gazebo, ArduPilot), and **hardware-software integration**. My goal is to contribute to the future of intelligent systems through innovation and continuous learning.
+
+Feel free to explore my projects, read my publications, or connect with me on [LinkedIn](#) or [GitHub](https://github.com/aissitech).
+
+---
+
+📍 **Location**: Morocco  
+📬 **Email**: your.email@example.com *(optional)*  
+📄 [Download CV](#) *(optional)*  
