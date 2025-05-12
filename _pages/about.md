@@ -2,21 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#cv/'>R&D Engineer, Robotics & Embedded Systems</a>. Morocco. Lear Corporation. AI Movement.
+subtitle: <a href='/cv/'>PhD on Robotics and artificial intelligence |Senior engineer on Drones R&D, integration & deployment | Engineer on Automotive software | Computer vision | ROS | Drones pilote</a>.
 
 profile:
   align: right
   image: my_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: R&D Department, Lear Corporation</p>
-    <p>Casablanca, Morocco</p>
+    <p>Office: E-systems Department, Lear Corporation</p>
+    <p>Rabat, Morocco</p>
     <p>Email: <a href="mailto:aissi.mohammed2014@gmail.com">aissi.mohammed2014@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/aissitech" target="_blank">github.com/aissitech</a></p>
-    <p>Website: <a href="https://www.mohammedaissi.com" target="_blank">mohammedaissi.com</a></p>
+    <p>GitHub: <a href="https://github.com/mohammedaissi" target="_blank">github.com/mohammedaissi</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammed-aissi" target="_blank">linkedin.com/in/mohammed-aissi</a></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -75,4 +74,4 @@ I'm also part of **Morocco Flying Labs**, promoting drone use for **public healt
 
 I am passionate about building real-world, intelligent, autonomous systems. My multidisciplinary background enables me to tackle complex problems involving **hardware**, **software**, and **AI**.
 
-Feel free to explore my [GitHub](https://github.com/aissitech), read my [publications](/publications/), or [connect with me](mailto:aissi.mohammed2014@gmail.com).
+Feel free to explore my [GitHub](https://github.com/mohammedaissi), read my [publications](/publications/), or [connect with me](mailto:aissi.mohammed2014@gmail.com).
