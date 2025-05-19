@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/cv/'>PhD on Robotics and artificial intelligence |Senior engineer on Drones R&D, integration & deployment | Engineer on Automotive software | Computer vision | ROS | Drones pilote</a>.
+subtitle: <a href='/cv/'>PhD on Robotics and artificial intelligence |Senior R&D, integration & deployment | Engineer on Automotive software | Computer vision | ROS | Drones pilote</a>.
 
 profile:
   align: right
   image: my_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: E-systems Department, Lear Corporation</p>
     <p>Rabat, Morocco</p>
     <p>Email: <a href="mailto:aissi.mohammed2014@gmail.com">aissi.mohammed2014@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/mohammedaissi" target="_blank">github.com/mohammedaissi</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/mohammed-aissi" target="_blank">linkedin.com/in/mohammed-aissi</a></p>
+    <p>GitHub: <a href="https://github.com/mohammedaissi" target="_blank">github.com/mohammedaissi</a></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -47,7 +46,7 @@ I'm also part of **Morocco Flying Labs**, promoting drone use for **public healt
 
 
 ---
-### 🔧 Technical Stack
+### Technical Stack
 - **Languages**: C, C++, Python, Shell, Java, CAPL
 - **Middleware**: ROS, MAVLink, PX4, ArduPilot
 - **Simulation**: Gazebo, RViz
@@ -57,7 +56,7 @@ I'm also part of **Morocco Flying Labs**, promoting drone use for **public healt
 
 ---
 
-### 🛠️ Projects
+### Projects
 - **Skid-Steering UGV** using Pixhawk + ROS + ArduPilot
 - **3D Printed Quadcopter** with GPS, autonomous modes, and custom ESC/Motor tuning
 - **Autonomous USV for UAV Recovery**, integrating CV + ROS + solar power
@@ -65,7 +64,7 @@ I'm also part of **Morocco Flying Labs**, promoting drone use for **public healt
 
 ---
 
-### 🏆 Certifications & Recognition
+### Certifications & Recognition
 - FAA Certificate of Completion (Drone Operation)
 - Endorsements in **Embedded Systems**, **Computer Vision**, and **Drone Integration**
 - Recommendation from ATLAN Space leadership for multidisciplinary skills
@@ -75,3 +74,5 @@ I'm also part of **Morocco Flying Labs**, promoting drone use for **public healt
 I am passionate about building real-world, intelligent, autonomous systems. My multidisciplinary background enables me to tackle complex problems involving **hardware**, **software**, and **AI**.
 
 Feel free to explore my [GitHub](https://github.com/mohammedaissi), read my [publications](/publications/), or [connect with me](mailto:aissi.mohammed2014@gmail.com).
+
+---
