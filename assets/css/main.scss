@@ -23,3 +23,10 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom styling for all post titles
+h1.post-title, .post-title {
+  color: #2f2f2e;       // navy color
+  font-weight: bold;
+  font-size: 2.2rem;
+}

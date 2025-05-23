@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/cv/'>PhD on Robotics and artificial intelligence |Senior R&D, integration & deployment | Engineer on Automotive software | Computer vision | ROS | Drones pilote</a>.
+subtitle: <a href='/cv/'>PhD on Robotics and artificial intelligence | Senior R&D, integration & deployment UAV Engineer| Automotive software Engineer | Computer vision | ROS | Drones pilote , Click to see my Vitae</a>.
 
 profile:
   align: right
-  image: my_pic.png
+  image: my_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rabat, Morocco</p>
@@ -19,7 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m **Mohammed Aissi**, a senior engineer and researcher specialized in **autonomous systems**, **robotics**, and **embedded software**. I hold a **PhD in Robotics and Artificial Intelligence** from ENSA Oujda, with over 6 years of hands-on experience in the development, integration, and deployment of **UAVs**, **UGVs**, and **USVs** across various industries.
+I’m **Mohammed Aissi**, a senior engineer and researcher specialized in **autonomous systems**, **robotics**, and **embedded software**. I hold a **PhD in Robotics and Artificial Intelligence** from Mohammed First University Oujda, Morocco, with over 6 years of hands-on experience in the development, integration, and deployment of **UAVs**, **UGVs**, and **USVs** across various industries.
+
+## Mohammed Aissi
+
+Senior engineer and researcher with a **PhD in Robotics & Artificial Intelligence**, specialized in **autonomous systems** and **embedded software**. Over **6 years of experience** in developing, integrating, and deploying **UAVs**, **UGVs**, and **USVs** across research and industry.
+
 
 Currently, I work as a **Software Engineer at Lear Corporation**, where I contribute to **automotive embedded ECU development**, with a strong focus on:
 - **Diagnostics (UDS, ODX, DoIP)**
